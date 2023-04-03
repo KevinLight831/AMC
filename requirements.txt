@@ -1,0 +1,5 @@
+torch==1.7.1+cu110
+torchtext==0.2.3
+torchvision==0.8.2+cu110
+tqdm
+einops
