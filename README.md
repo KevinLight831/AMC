@@ -86,7 +86,7 @@ If this codebase is useful to you, please cite our work:
   year={2023}
 }
 ```
-if you have any question, please feel free contact me: hongguang@bjtu.edu.cn
+If you have any question, please feel free contact me: hongguang@bjtu.edu.cn
 
 ## Reference
 1. Lee, Seungmin, Dongwan Kim, and Bohyung Han. "Cosmo: Content-style modulation for image retrieval with text feedback." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021.
