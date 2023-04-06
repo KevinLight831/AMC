@@ -1,4 +1,5 @@
 # AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval
+[![GitHub](https://img.shields.io/badge/license-MIT-green)](https://github.com/KevinLight831/AMC/blob/main/LICENSE)
 Offical pytorch code of [AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3584703)
 
 ## :open_book: Introduce
