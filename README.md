@@ -59,7 +59,10 @@ pip install -r requirements.txt
 
 ## :file_folder: Dataset
 Download the Fashion-IQ dataset by following the instructions on [XiaoxiaoGuo](https://github.com/XiaoxiaoGuo/fashion-iq). follow the [XiaoxiaoGuo](https://github.com/XiaoxiaoGuo/fashion-iq) and [CLVC-NET](https://anosite.wixsite.com/clvcnet/code), we first resize the downloaded images by resize_images.py.
+
 Because more and more download links to Fashion-IQ images are being taken down, you can also use the stored [dataset version](https://drive.google.com/drive/folders/14JG_w0V58iex62bVUHSBDYGBUECbDdx9?usp=sharing) from the author of [CoSMo](https://github.com/postBG/CosMo.pytorch).
+
+It seems like the [raw download link](http://tamaraberg.com/attributesDataset/index.html) of shoes dataset cannot be accessed. In order to facilitate the follow-up studies in this field, we have uploaded a version of shoes dataset in [Google Drive](https://drive.google.com/file/d/1tI_gc7k-grn-EvCwcZOFE6DeEL24JEou/view?usp=share_link). Please be aware that this link is not permanent, and may be taken down in the future. Besides, we don‘t own this dataset and please remember to claim the raw source of this dataset.
 
 ## :pushpin: Pretrained Model Weight 
 The pretrained weight are stored in [Google Driver](https://drive.google.com/file/d/1GpCAYoyYLKO_wfMYffCzV4U3cwqCWRcr/view?usp=share_link). There are two model weight: DCR_sim_0 and DCR_sim_1. They can evaluate the ensemble performance.
