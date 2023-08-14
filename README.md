@@ -1,5 +1,9 @@
 # AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval
 [![GitHub](https://img.shields.io/badge/license-MIT-green)](https://github.com/KevinLight831/AMC/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/python-3.6-blue.svg?style=flat-square&logo=python&color=3776AB&logoColor=3776AB)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/pytorch-1.7-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KevinLight831.AMC&left_color=green&right_color=red)
+
 
 Official Pytorch code of [AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3584703)
 
