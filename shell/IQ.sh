@@ -1,5 +1,5 @@
 DATASET_NAME='fashioniq'
-EXP_NAME='AMC_yanshou'
+EXP_NAME='AMC'
 ID='2'
 CUDA_ID=0
 
