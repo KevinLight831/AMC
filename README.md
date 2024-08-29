@@ -5,6 +5,7 @@
 
 
 Official Pytorch code of [AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval](https://dl.acm.org/doi/abs/10.1145/3584703)
+
 [PDF](https://github.com/KevinLight831/AMC/blob/main/AMC.pdf)
 
 ## :open_book: Introduce
