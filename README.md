@@ -87,7 +87,7 @@ The pretrained weight are stored in [Google Driver](https://drive.google.com/fil
 <p align="center"><img src="AMC_PICTURES/SHOES.png" alt="SHOES" width="800"/></p>
 
 ## :pencil: Citation
-If this codebase is useful to you, please cite our work:
+If this codebase is useful to you, please consider citing:
 ```
 @article{zhu2023amc,
   title={AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval},
